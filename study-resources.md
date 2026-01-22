@@ -4,9 +4,9 @@
 - Markdown Guide - https://www.markdownguide.org/
 - Git Handbook - https://guides.github.com/introduction/git-handbook/
 ## Tools I Use
-- Xcode
-- Google chrome
-- Notes 
+- Xcode - for codeing
+- Google chrome - as web browser
+- Notes - to making notes
 ## Class Schedule
 | Time | Monday | Tuesday | Wednesday |
 |------|--------|---------|-----------|
